@@ -49,12 +49,12 @@ def getNumDraws(year):
         draw_match_per_page=0
         for match in match_data:
             if match['team1goals'] == match['team2goals'] :
-                print(match)
+                # print(match)
                 draw_match_per_page +=1
         print(f"there are {draw_match_per_page} games that matches at page {page}")
         draw_match_total +=  draw_match_per_page
         # print(f"page {page} has {draw_match_count} draw matches")
-    print(draw_match_total)
+    # print(draw_match_total)
     
     return(draw_match_total)
 
