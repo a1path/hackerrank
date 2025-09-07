@@ -1,5 +1,10 @@
-# https://www.hackerrank.com/skills-verification/rest_api_intermediate
+
 # Rest API (Intermediate)
+
+```
+https://www.hackerrank.com/skills-verification/rest_api_intermediate
+
+```
 
 API endpoint: 
 https://jsonmock.hackerrank.com/api/football_matches?year=<year>&page=<page>
