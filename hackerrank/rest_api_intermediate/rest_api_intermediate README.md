@@ -13,7 +13,7 @@ which will return the total matched game counts directly when goal=1. you just l
 script run result:
 
 ```
-python3 number_of_drawn_matches_sol2.py 
+$python3 number_of_drawn_matches_sol2.py 
 Input match year:2011
 total_draw_match_at_each_goal:162 when goal is 0
 total_draw_match_at_each_goal:234 when goal is 1
